@@ -251,15 +251,21 @@ I still sit close to the work: architecture, product direction, AI adoption and 
 <br/><br/>
 
 <!--STATS:START-->
-<img src="https://img.shields.io/badge/Total%20Contributions-pending-21AB71?style=for-the-badge&labelColor=1A2C30&logo=github&logoColor=white" alt="Total Contributions" />
-<img src="https://img.shields.io/badge/Last%2012%20Months-pending-2FD18C?style=for-the-badge&labelColor=1A2C30&logo=githubactions&logoColor=white" alt="Last 12 Months" />
-<img src="https://img.shields.io/badge/Longest%20Streak-pending-61CE70?style=for-the-badge&labelColor=1A2C30&logo=fireship&logoColor=white" alt="Longest Streak" />
-<img src="https://img.shields.io/badge/Active%20Days-pending-21AB71?style=for-the-badge&labelColor=1A2C30&logo=gitbook&logoColor=white" alt="Active Days" />
+<img src="https://img.shields.io/badge/Total%20Contributions-28%2C712%2B-21AB71?style=for-the-badge&labelColor=1A2C30&logo=github&logoColor=white" alt="Total Contributions" />
+<img src="https://img.shields.io/badge/Last%2012%20Months-10%2C979-2FD18C?style=for-the-badge&labelColor=1A2C30&logo=githubactions&logoColor=white" alt="Last 12 Months" />
+<img src="https://img.shields.io/badge/Longest%20Streak-23%20days-61CE70?style=for-the-badge&labelColor=1A2C30&logo=fireship&logoColor=white" alt="Longest Streak" />
+<img src="https://img.shields.io/badge/Active%20Days-1%2C868-21AB71?style=for-the-badge&labelColor=1A2C30&logo=gitbook&logoColor=white" alt="Active Days" />
+<br/>
+<img src="https://img.shields.io/badge/Peak%20Month-1%2C858%2B-2FD18C?style=for-the-badge&labelColor=1A2C30&logo=graphql&logoColor=white" alt="Peak Month" />
+<img src="https://img.shields.io/badge/Best%20Single%20Day-1%2C126%20commits-61CE70?style=for-the-badge&labelColor=1A2C30&logo=git&logoColor=white" alt="Best Single Day" />
+<img src="https://img.shields.io/badge/Active%20Weeks-406-21AB71?style=for-the-badge&labelColor=1A2C30&logo=githubsponsors&logoColor=white" alt="Active Weeks" />
+<img src="https://img.shields.io/badge/Avg%20per%20Active%20Day-15.4-2FD18C?style=for-the-badge&labelColor=1A2C30&logo=starship&logoColor=white" alt="Avg per Active Day" />
+<img src="https://img.shields.io/badge/This%20Year-8%2C222-61CE70?style=for-the-badge&labelColor=1A2C30&logo=githubactions&logoColor=white" alt="This Year" />
 <!--STATS:END-->
 
 <br/><br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/mzeeshansikander/mzeeshansikander/main/assets/contributions.svg?v=1" alt="Monthly contribution chart" />
+<img width="100%" src="https://raw.githubusercontent.com/mzeeshansikander/mzeeshansikander/main/assets/contributions.svg?v=20260922" alt="Monthly contribution chart" />
 
 <br/><br/>
 
