@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="Terminal console introducing Muhammad Zeeshan Sikander">
+<defs>
+<linearGradient id="shell" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#16333a"/><stop offset="100%" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#1A2C30"/><stop offset="100%" stop-color="#16333a"/></linearGradient>
+<style>
+.m{font-family:'Fira Code',ui-monospace,Menlo,Consolas,monospace}
+</style>
+</defs>
+
+<rect width="1200" height="440" fill="#0d1117"/>
+<rect x="28" y="20" width="1144" height="400" rx="12" fill="url(#shell)" stroke="#21AB71" stroke-width="1.2" opacity=".95"/>
+<rect x="28" y="20" width="1144" height="38" rx="12" fill="url(#bar)"/>
+<rect x="28" y="46" width="1144" height="12" fill="#16333a"/>
+<circle cx="54" cy="39" r="6" fill="#ff5f56"/><circle cx="76" cy="39" r="6" fill="#ffbd2e"/><circle cx="98" cy="39" r="6" fill="#2FD18C"/>
+<text class="m" x="600" y="44" fill="#8D9A9B" font-size="12" text-anchor="middle">zeeshan@zenkoders — ~/founder</text>
+
+<g class="m" font-size="14">
+<text x="58" y="96" fill="#2FD18C" opacity="0"><animate attributeName="opacity" values="0;1" dur=".3s" begin=".2s" fill="freeze"/>$ whoami</text>
+<text x="58" y="124" fill="#E1E1E1" opacity="0"><animate attributeName="opacity" values="0;1" dur=".3s" begin=".55s" fill="freeze"/>Muhammad Zeeshan Sikander — Founder &amp; CEO, Zenkoders</text>
+<text x="58" y="148" fill="#8D9A9B" opacity="0"><animate attributeName="opacity" values="0;1" dur=".3s" begin=".7s" fill="freeze"/>Karachi, Pakistan · building for clients worldwide</text>
+
+<text x="58" y="190" fill="#2FD18C" opacity="0"><animate attributeName="opacity" values="0;1" dur=".3s" begin="1s" fill="freeze"/>$ cat background.txt</text>
+<text x="58" y="218" fill="#E1E1E1" opacity="0"><animate attributeName="opacity" values="0;1" dur=".3s" begin="1.35s" fill="freeze"/>Started as a React Native engineer building banking apps at Habib Bank Limited.</text>
+<text x="58" y="242" fill="#E1E1E1" opacity="0"><animate attributeName="opacity" values="0;1" dur=".3s" begin="1.5s" fill="freeze"/>Founded Zenkoders in 2019 — solo. Grew it into a team of 80+ engineers,</text>
+<text x="58" y="266" fill="#E1E1E1" opacity="0"><animate attributeName="opacity" values="0;1" dur=".3s" begin="1.65s" fill="freeze"/>designers and product people shipping software that businesses actually run on.</text>
+
+<text x="58" y="308" fill="#2FD18C" opacity="0"><animate attributeName="opacity" values="0;1" dur=".3s" begin="1.95s" fill="freeze"/>$ zk stats --lifetime</text>
+<text x="58" y="336" fill="#61CE70" opacity="0"><animate attributeName="opacity" values="0;1" dur=".3s" begin="2.3s" fill="freeze"/>projects_delivered : 200+</text>
+<text x="420" y="336" fill="#61CE70" opacity="0"><animate attributeName="opacity" values="0;1" dur=".3s" begin="2.4s" fill="freeze"/>team_size : 80</text>
+<text x="720" y="336" fill="#61CE70" opacity="0"><animate attributeName="opacity" values="0;1" dur=".3s" begin="2.5s" fill="freeze"/>orders_delivered : 1000+</text>
+<text x="58" y="360" fill="#61CE70" opacity="0"><animate attributeName="opacity" values="0;1" dur=".3s" begin="2.6s" fill="freeze"/>years_experience   : 10+</text>
+<text x="420" y="360" fill="#61CE70" opacity="0"><animate attributeName="opacity" values="0;1" dur=".3s" begin="2.7s" fill="freeze"/>founded   : 2019</text>
+<text x="720" y="360" fill="#61CE70" opacity="0"><animate attributeName="opacity" values="0;1" dur=".3s" begin="2.8s" fill="freeze"/>five_star_reviews : 700+</text>
+
+<text x="58" y="398" fill="#2FD18C" opacity="0"><animate attributeName="opacity" values="0;1" dur=".3s" begin="3.1s" fill="freeze"/>$ <tspan fill="#6EC1E4">_</tspan></text>
+</g>
+
+<rect x="76" y="386" width="9" height="16" fill="#2FD18C" opacity="0">
+<animate attributeName="opacity" values="0;0;1;0;1;0;1" dur="4.6s" begin="3.2s" repeatCount="indefinite" keyTimes="0;.01;.2;.4;.6;.8;1"/></rect>
+</svg>

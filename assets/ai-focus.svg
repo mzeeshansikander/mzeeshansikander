@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Progression from manual work to AI agents">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#16333a"/><stop offset="100%" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="ramp" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#626D6F"/><stop offset="35%" stop-color="#21AB71"/>
+<stop offset="70%" stop-color="#2FD18C"/><stop offset="100%" stop-color="#6EC1E4"/></linearGradient>
+<style>
+.m{font-family:'Fira Code',ui-monospace,Menlo,monospace}
+.s{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-weight:700}
+</style>
+</defs>
+
+<rect width="1200" height="300" fill="url(#bg)"/>
+<text class="m" x="600" y="36" fill="#2FD18C" font-size="12" letter-spacing="5" text-anchor="middle">WHERE THE WORK IS HEADED</text>
+
+<line x1="120" y1="150" x2="1080" y2="150" stroke="url(#ramp)" stroke-width="2.5">
+<animate attributeName="stroke-dasharray" values="0 960;960 0" dur="1.8s" fill="freeze"/></line>
+
+<circle r="5" fill="#A8F0CE"><animateMotion path="M120 150 L1080 150" dur="4.5s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0" dur="4.5s" repeatCount="indefinite"/></circle>
+
+<g text-anchor="middle">
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin=".35s" fill="freeze"/>
+<circle cx="120" cy="150" r="17" fill="#0E1A1D" stroke="#626D6F" stroke-width="1.8"/>
+<text class="m" x="120" y="155" fill="#626D6F" font-size="12">01</text>
+<text class="s" x="120" y="108" fill="#8D9A9B" font-size="13">Manual Work</text>
+<text class="m" x="120" y="196" fill="#626D6F" font-size="10">spreadsheets</text>
+<text class="m" x="120" y="211" fill="#626D6F" font-size="10">and inboxes</text></g>
+
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin=".6s" fill="freeze"/>
+<circle cx="360" cy="150" r="17" fill="#0E1A1D" stroke="#21AB71" stroke-width="1.8"/>
+<text class="m" x="360" y="155" fill="#21AB71" font-size="12">02</text>
+<text class="s" x="360" y="108" fill="#E1E1E1" font-size="13">Software</text>
+<text class="m" x="360" y="196" fill="#626D6F" font-size="10">a system of</text>
+<text class="m" x="360" y="211" fill="#626D6F" font-size="10">record exists</text></g>
+
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin=".85s" fill="freeze"/>
+<circle cx="600" cy="150" r="17" fill="#0E1A1D" stroke="#2FD18C" stroke-width="1.8"/>
+<text class="m" x="600" y="155" fill="#2FD18C" font-size="12">03</text>
+<text class="s" x="600" y="108" fill="#ffffff" font-size="13">Automation</text>
+<text class="m" x="600" y="196" fill="#626D6F" font-size="10">rules and jobs</text>
+<text class="m" x="600" y="211" fill="#626D6F" font-size="10">remove the toil</text></g>
+
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="1.1s" fill="freeze"/>
+<circle cx="840" cy="150" r="17" fill="#0E1A1D" stroke="#2FD18C" stroke-width="1.8"/>
+<text class="m" x="840" y="155" fill="#2FD18C" font-size="12">04</text>
+<text class="s" x="840" y="108" fill="#ffffff" font-size="13">AI-Assisted</text>
+<text class="m" x="840" y="196" fill="#626D6F" font-size="10">LLMs handle the</text>
+<text class="m" x="840" y="211" fill="#626D6F" font-size="10">unstructured parts</text></g>
+
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="1.35s" fill="freeze"/>
+<circle cx="1080" cy="150" r="21" fill="#0E1A1D" stroke="#6EC1E4" stroke-width="2.2"/>
+<circle cx="1080" cy="150" r="21" fill="none" stroke="#6EC1E4" stroke-width="1" opacity=".6">
+<animate attributeName="r" values="21;40" dur="2.8s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values=".55;0" dur="2.8s" repeatCount="indefinite"/></circle>
+<text class="m" x="1080" y="155" fill="#6EC1E4" font-size="12">05</text>
+<text class="s" x="1080" y="108" fill="#ffffff" font-size="13">AI Agents</text>
+<text class="m" x="1080" y="196" fill="#6EC1E4" font-size="10">reason, call APIs,</text>
+<text class="m" x="1080" y="211" fill="#6EC1E4" font-size="10">execute, escalate</text></g>
+</g>
+
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".6s" begin="1.7s" fill="freeze"/>
+<rect x="120" y="240" width="960" height="40" rx="9" fill="#0E1A1D" stroke="#21AB71" stroke-width="1"/>
+<text class="m" x="600" y="265" fill="#8D9A9B" font-size="11.5" text-anchor="middle">most businesses are at step 2 — the value is in moving them to step 4 without breaking step 2</text></g>
+</svg>

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Stat board of publicly stated figures">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#16333a"/><stop offset="100%" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="hdr" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#1A2C30"/><stop offset="50%" stop-color="#21AB71"/><stop offset="100%" stop-color="#1A2C30"/></linearGradient>
+<linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#21AB71" stop-opacity="0"/>
+<stop offset="50%" stop-color="#21AB71" stop-opacity=".6"/>
+<stop offset="100%" stop-color="#21AB71" stop-opacity="0"/></linearGradient>
+<style>
+.m{font-family:'Fira Code',ui-monospace,Menlo,monospace}
+.h{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-weight:800}
+.s{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-weight:600}
+</style>
+</defs>
+
+<rect width="1200" height="360" fill="url(#bg)"/>
+<rect x="30" y="18" width="1140" height="324" rx="12" fill="none" stroke="#21AB71" stroke-width="1.2" opacity=".6"/>
+<rect x="30" y="18" width="1140" height="3" rx="1.5" fill="url(#hdr)"/>
+
+<text class="h" x="62" y="62" fill="#ffffff" font-size="24" opacity="0">
+<animate attributeName="opacity" values="0;1" dur=".6s" begin=".1s" fill="freeze"/>ZEESHAN SIKANDER</text>
+<text class="m" x="62" y="86" fill="#2FD18C" font-size="12" letter-spacing="3" opacity="0">
+<animate attributeName="opacity" values="0;1" dur=".6s" begin=".25s" fill="freeze"/>FOUNDER &amp; CEO — ZENKODERS</text>
+<text class="m" x="1138" y="62" fill="#8D9A9B" font-size="12" text-anchor="end" opacity="0">
+<animate attributeName="opacity" values="0;1" dur=".6s" begin=".35s" fill="freeze"/>AI · SaaS · Mobile · Web · Automation</text>
+<text class="m" x="1138" y="86" fill="#626D6F" font-size="11" text-anchor="end" opacity="0">
+<animate attributeName="opacity" values="0;1" dur=".6s" begin=".45s" fill="freeze"/>Karachi, PK · Claymont, DE</text>
+
+<rect x="62" y="104" width="0" height="1" fill="url(#rule)">
+<animate attributeName="width" values="0;1076" dur="1s" begin=".3s" fill="freeze" calcMode="spline" keySplines=".2 .85 .2 1" keyTimes="0;1"/></rect>
+
+<g text-anchor="middle">
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".55s" begin=".6s" fill="freeze"/>
+<text class="h" x="192" y="168" fill="#2FD18C" font-size="40">10+</text>
+<text class="s" x="192" y="192" fill="#E1E1E1" font-size="12">YEARS</text>
+<text class="m" x="192" y="210" fill="#626D6F" font-size="10">experience</text></g>
+
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".55s" begin=".75s" fill="freeze"/>
+<text class="h" x="437" y="168" fill="#2FD18C" font-size="40">200+</text>
+<text class="s" x="437" y="192" fill="#E1E1E1" font-size="12">PROJECTS</text>
+<text class="m" x="437" y="210" fill="#626D6F" font-size="10">personally delivered</text></g>
+
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".55s" begin=".9s" fill="freeze"/>
+<text class="h" x="682" y="168" fill="#2FD18C" font-size="40">80</text>
+<text class="s" x="682" y="192" fill="#E1E1E1" font-size="12">TEAM</text>
+<text class="m" x="682" y="210" fill="#626D6F" font-size="10">employees</text></g>
+
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".55s" begin="1.05s" fill="freeze"/>
+<text class="h" x="927" y="168" fill="#2FD18C" font-size="40">2019</text>
+<text class="s" x="927" y="192" fill="#E1E1E1" font-size="12">FOUNDED</text>
+<text class="m" x="927" y="210" fill="#626D6F" font-size="10">Zenkoders</text></g>
+</g>
+
+<g stroke="#21AB71" stroke-width=".8" opacity=".3">
+<line x1="314" y1="132" x2="314" y2="214"/><line x1="559" y1="132" x2="559" y2="214"/><line x1="804" y1="132" x2="804" y2="214"/>
+</g>
+
+<rect x="62" y="238" width="0" height="1" fill="url(#rule)">
+<animate attributeName="width" values="0;1076" dur="1s" begin="1s" fill="freeze" calcMode="spline" keySplines=".2 .85 .2 1" keyTimes="0;1"/></rect>
+
+<g text-anchor="middle">
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".55s" begin="1.25s" fill="freeze"/>
+<text class="h" x="192" y="292" fill="#61CE70" font-size="28">1,000+</text>
+<text class="m" x="192" y="314" fill="#626D6F" font-size="10">agency orders</text></g>
+
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".55s" begin="1.4s" fill="freeze"/>
+<text class="h" x="600" y="292" fill="#61CE70" font-size="28">700+</text>
+<text class="m" x="600" y="314" fill="#626D6F" font-size="10">5-star reviews</text></g>
+
+
+
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".55s" begin="1.7s" fill="freeze"/>
+<text class="h" x="1008" y="292" fill="#61CE70" font-size="28">14+</text>
+<text class="m" x="1008" y="314" fill="#626D6F" font-size="10">industries</text></g>
+</g>
+
+<circle cx="1146" cy="330" r="3" fill="#2FD18C">
+<animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></circle>
+</svg>

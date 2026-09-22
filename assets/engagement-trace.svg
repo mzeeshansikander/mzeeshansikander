@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="Trace log of a typical client engagement">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#16333a"/><stop offset="100%" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="rail" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#21AB71" stop-opacity="0"/>
+<stop offset="15%" stop-color="#2FD18C" stop-opacity=".8"/>
+<stop offset="85%" stop-color="#2FD18C" stop-opacity=".8"/>
+<stop offset="100%" stop-color="#21AB71" stop-opacity="0"/></linearGradient>
+<style>
+.m{font-family:'Fira Code',ui-monospace,Menlo,Consolas,monospace}
+</style>
+</defs>
+
+<rect width="1200" height="440" fill="url(#bg)"/>
+<text class="m" x="46" y="38" fill="#2FD18C" font-size="12" letter-spacing="4">ENGAGEMENT TRACE — WHAT WORKING TOGETHER LOOKS LIKE</text>
+<text class="m" x="1154" y="38" fill="#8D9A9B" font-size="11" text-anchor="end">typical 12-week build</text>
+
+<line x1="86" y1="62" x2="86" y2="404" stroke="url(#rail)" stroke-width="1.6">
+<animate attributeName="stroke-dasharray" values="0 342;342 0" dur="1.8s" fill="freeze"/></line>
+
+<g class="m" font-size="13">
+
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".45s" begin=".3s" fill="freeze"/>
+<circle cx="86" cy="86" r="6" fill="#0E1A1D" stroke="#2FD18C" stroke-width="2"/>
+<text x="118" y="82" fill="#8D9A9B" font-size="11">week 00</text>
+<text x="206" y="82" fill="#ffffff">Discovery call — your problem, not my pitch</text>
+<rect x="1000" y="70" width="154" height="20" rx="10" fill="#0E1A1D" stroke="#61CE70" stroke-width="1"/>
+<text x="1077" y="84" fill="#61CE70" font-size="10" text-anchor="middle">FREE · 30 MIN</text>
+<text x="206" y="100" fill="#626D6F" font-size="11">goals · users · budget reality · whether I'm even the right fit</text></g>
+
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".45s" begin=".65s" fill="freeze"/>
+<circle cx="86" cy="150" r="6" fill="#0E1A1D" stroke="#2FD18C" stroke-width="2"/>
+<text x="118" y="146" fill="#8D9A9B" font-size="11">week 01</text>
+<text x="206" y="146" fill="#ffffff">Scoped proposal — fixed price, fixed milestones</text>
+<rect x="1000" y="134" width="154" height="20" rx="10" fill="#0E1A1D" stroke="#2FD18C" stroke-width="1"/>
+<text x="1077" y="148" fill="#2FD18C" font-size="10" text-anchor="middle">SIGNED OFF</text>
+<text x="206" y="164" fill="#626D6F" font-size="11">no open-ended hourly drift — you know the number before we start</text></g>
+
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".45s" begin="1s" fill="freeze"/>
+<circle cx="86" cy="214" r="6" fill="#0E1A1D" stroke="#6EC1E4" stroke-width="2"/>
+<text x="118" y="210" fill="#8D9A9B" font-size="11">week 02</text>
+<text x="206" y="210" fill="#ffffff">Design sprint — clickable prototype in your hands</text>
+<rect x="1000" y="198" width="154" height="20" rx="10" fill="#0E1A1D" stroke="#6EC1E4" stroke-width="1"/>
+<text x="1077" y="212" fill="#6EC1E4" font-size="10" text-anchor="middle">FIGMA</text>
+<text x="206" y="228" fill="#626D6F" font-size="11">you react to something real before a line of production code exists</text></g>
+
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".45s" begin="1.35s" fill="freeze"/>
+<circle cx="86" cy="278" r="6" fill="#0E1A1D" stroke="#2FD18C" stroke-width="2"/>
+<text x="118" y="274" fill="#8D9A9B" font-size="11">week 03+</text>
+<text x="206" y="274" fill="#ffffff">Build sprints — a working demo every two weeks</text>
+<rect x="1000" y="262" width="154" height="20" rx="10" fill="#0E1A1D" stroke="#2FD18C" stroke-width="1"/>
+<text x="1077" y="276" fill="#2FD18C" font-size="10" text-anchor="middle">IN PROGRESS</text>
+<circle cx="1018" cy="272" r="3" fill="#2FD18C">
+<animate attributeName="opacity" values="1;.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="206" y="292" fill="#626D6F" font-size="11">your own repo, your own cloud account, full access from day one</text></g>
+
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".45s" begin="1.7s" fill="freeze"/>
+<circle cx="86" cy="342" r="6" fill="#0E1A1D" stroke="#2FD18C" stroke-width="2"/>
+<text x="118" y="338" fill="#8D9A9B" font-size="11">launch</text>
+<text x="206" y="338" fill="#ffffff">Ship to stores and production cloud</text>
+<rect x="1000" y="326" width="154" height="20" rx="10" fill="#0E1A1D" stroke="#61CE70" stroke-width="1"/>
+<text x="1077" y="340" fill="#61CE70" font-size="10" text-anchor="middle">LIVE</text>
+<text x="206" y="356" fill="#626D6F" font-size="11">CI/CD, monitoring and handover docs included — not an upsell</text></g>
+
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".45s" begin="2.05s" fill="freeze"/>
+<circle cx="86" cy="396" r="6" fill="#0E1A1D" stroke="#61CE70" stroke-width="2"/>
+<text x="118" y="392" fill="#8D9A9B" font-size="11">after</text>
+<text x="206" y="392" fill="#ffffff">Support and iteration on real usage data</text>
+<rect x="1000" y="380" width="154" height="20" rx="10" fill="#0E1A1D" stroke="#61CE70" stroke-width="1"/>
+<text x="1077" y="394" fill="#61CE70" font-size="10" text-anchor="middle">ONGOING</text></g>
+</g>
+</svg>

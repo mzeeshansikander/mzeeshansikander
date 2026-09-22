@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="What I build: AI, software products, mobile and web capabilities">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#16333a"/><stop offset="100%" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#21AB71" stop-opacity="0"/><stop offset="50%" stop-color="#21AB71" stop-opacity=".6"/><stop offset="100%" stop-color="#21AB71" stop-opacity="0"/></linearGradient>
+<style>.m{font-family:'Fira Code',ui-monospace,Menlo,monospace}.s{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-weight:600}.h{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-weight:800}</style></defs>
+<rect width="1200" height="420" fill="url(#bg)"/>
+<text class="m" x="36" y="36" fill="#2FD18C" font-size="12" letter-spacing="4">WHAT I BUILD</text>
+<text class="m" x="1164" y="36" fill="#8D9A9B" font-size="11" text-anchor="end">36 capabilities across four practices</text>
+<rect x="34" y="50" width="0" height="1" fill="url(#rule)"><animate attributeName="width" values="0;1132" dur="1s" fill="freeze" calcMode="spline" keySplines=".2 .85 .2 1" keyTimes="0;1"/></rect><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="0.00s" fill="freeze"/>
+<rect x="34.0" y="76" width="271.0" height="322" rx="10" fill="#0E1A1D" stroke="#6EC1E4" stroke-width="1.1" opacity=".95"/>
+<rect x="34.0" y="76" width="271.0" height="3" rx="1.5" fill="#6EC1E4"/>
+<text class="h" x="169.5" y="103" fill="#6EC1E4" font-size="11.5" letter-spacing="1.4" text-anchor="middle">ARTIFICIAL INTELLIGENCE</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.28s" fill="freeze"/>
+<circle cx="52.0" cy="130" r="2.6" fill="#6EC1E4"/>
+<text class="s" x="66.0" y="134" fill="#E1E1E1" font-size="12.5">AI agents</text></g><line x1="48.0" y1="145" x2="291.0" y2="145" stroke="#6EC1E4" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.33s" fill="freeze"/>
+<circle cx="52.0" cy="160" r="2.6" fill="#6EC1E4"/>
+<text class="s" x="66.0" y="164" fill="#E1E1E1" font-size="12.5">LLM applications</text></g><line x1="48.0" y1="175" x2="291.0" y2="175" stroke="#6EC1E4" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.37s" fill="freeze"/>
+<circle cx="52.0" cy="190" r="2.6" fill="#6EC1E4"/>
+<text class="s" x="66.0" y="194" fill="#E1E1E1" font-size="12.5">RAG &amp; vector search</text></g><line x1="48.0" y1="205" x2="291.0" y2="205" stroke="#6EC1E4" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.42s" fill="freeze"/>
+<circle cx="52.0" cy="220" r="2.6" fill="#6EC1E4"/>
+<text class="s" x="66.0" y="224" fill="#E1E1E1" font-size="12.5">AI chatbots</text></g><line x1="48.0" y1="235" x2="291.0" y2="235" stroke="#6EC1E4" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.46s" fill="freeze"/>
+<circle cx="52.0" cy="250" r="2.6" fill="#6EC1E4"/>
+<text class="s" x="66.0" y="254" fill="#E1E1E1" font-size="12.5">Conversational &amp; voice AI</text></g><line x1="48.0" y1="265" x2="291.0" y2="265" stroke="#6EC1E4" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.51s" fill="freeze"/>
+<circle cx="52.0" cy="280" r="2.6" fill="#6EC1E4"/>
+<text class="s" x="66.0" y="284" fill="#E1E1E1" font-size="12.5">Workflow automation</text></g><line x1="48.0" y1="295" x2="291.0" y2="295" stroke="#6EC1E4" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.55s" fill="freeze"/>
+<circle cx="52.0" cy="310" r="2.6" fill="#6EC1E4"/>
+<text class="s" x="66.0" y="314" fill="#E1E1E1" font-size="12.5">Knowledge bases</text></g><line x1="48.0" y1="325" x2="291.0" y2="325" stroke="#6EC1E4" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.59s" fill="freeze"/>
+<circle cx="52.0" cy="340" r="2.6" fill="#6EC1E4"/>
+<text class="s" x="66.0" y="344" fill="#E1E1E1" font-size="12.5">Generative content</text></g><line x1="48.0" y1="355" x2="291.0" y2="355" stroke="#6EC1E4" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.64s" fill="freeze"/>
+<circle cx="52.0" cy="370" r="2.6" fill="#6EC1E4"/>
+<text class="s" x="66.0" y="374" fill="#E1E1E1" font-size="12.5">AI-powered analytics</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="0.12s" fill="freeze"/>
+<rect x="321.0" y="76" width="271.0" height="322" rx="10" fill="#0E1A1D" stroke="#2FD18C" stroke-width="1.1" opacity=".95"/>
+<rect x="321.0" y="76" width="271.0" height="3" rx="1.5" fill="#2FD18C"/>
+<text class="h" x="456.5" y="103" fill="#2FD18C" font-size="11.5" letter-spacing="1.4" text-anchor="middle">SOFTWARE PRODUCTS</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.40s" fill="freeze"/>
+<circle cx="339.0" cy="130" r="2.6" fill="#2FD18C"/>
+<text class="s" x="353.0" y="134" fill="#E1E1E1" font-size="12.5">SaaS platforms</text></g><line x1="335.0" y1="145" x2="578.0" y2="145" stroke="#2FD18C" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.45s" fill="freeze"/>
+<circle cx="339.0" cy="160" r="2.6" fill="#2FD18C"/>
+<text class="s" x="353.0" y="164" fill="#E1E1E1" font-size="12.5">Multi-tenant apps</text></g><line x1="335.0" y1="175" x2="578.0" y2="175" stroke="#2FD18C" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.49s" fill="freeze"/>
+<circle cx="339.0" cy="190" r="2.6" fill="#2FD18C"/>
+<text class="s" x="353.0" y="194" fill="#E1E1E1" font-size="12.5">Marketplaces</text></g><line x1="335.0" y1="205" x2="578.0" y2="205" stroke="#2FD18C" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.54s" fill="freeze"/>
+<circle cx="339.0" cy="220" r="2.6" fill="#2FD18C"/>
+<text class="s" x="353.0" y="224" fill="#E1E1E1" font-size="12.5">On-demand platforms</text></g><line x1="335.0" y1="235" x2="578.0" y2="235" stroke="#2FD18C" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.58s" fill="freeze"/>
+<circle cx="339.0" cy="250" r="2.6" fill="#2FD18C"/>
+<text class="s" x="353.0" y="254" fill="#E1E1E1" font-size="12.5">CRM systems</text></g><line x1="335.0" y1="265" x2="578.0" y2="265" stroke="#2FD18C" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.63s" fill="freeze"/>
+<circle cx="339.0" cy="280" r="2.6" fill="#2FD18C"/>
+<text class="s" x="353.0" y="284" fill="#E1E1E1" font-size="12.5">ERP &amp; accounting</text></g><line x1="335.0" y1="295" x2="578.0" y2="295" stroke="#2FD18C" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.67s" fill="freeze"/>
+<circle cx="339.0" cy="310" r="2.6" fill="#2FD18C"/>
+<text class="s" x="353.0" y="314" fill="#E1E1E1" font-size="12.5">Booking platforms</text></g><line x1="335.0" y1="325" x2="578.0" y2="325" stroke="#2FD18C" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.72s" fill="freeze"/>
+<circle cx="339.0" cy="340" r="2.6" fill="#2FD18C"/>
+<text class="s" x="353.0" y="344" fill="#E1E1E1" font-size="12.5">Subscription billing</text></g><line x1="335.0" y1="355" x2="578.0" y2="355" stroke="#2FD18C" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.76s" fill="freeze"/>
+<circle cx="339.0" cy="370" r="2.6" fill="#2FD18C"/>
+<text class="s" x="353.0" y="374" fill="#E1E1E1" font-size="12.5">Internal business tools</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="0.24s" fill="freeze"/>
+<rect x="608.0" y="76" width="271.0" height="322" rx="10" fill="#0E1A1D" stroke="#21AB71" stroke-width="1.1" opacity=".95"/>
+<rect x="608.0" y="76" width="271.0" height="3" rx="1.5" fill="#21AB71"/>
+<text class="h" x="743.5" y="103" fill="#21AB71" font-size="11.5" letter-spacing="1.4" text-anchor="middle">MOBILE</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.52s" fill="freeze"/>
+<circle cx="626.0" cy="130" r="2.6" fill="#21AB71"/>
+<text class="s" x="640.0" y="134" fill="#E1E1E1" font-size="12.5">React Native</text></g><line x1="622.0" y1="145" x2="865.0" y2="145" stroke="#21AB71" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.57s" fill="freeze"/>
+<circle cx="626.0" cy="160" r="2.6" fill="#21AB71"/>
+<text class="s" x="640.0" y="164" fill="#E1E1E1" font-size="12.5">iOS &amp; Android</text></g><line x1="622.0" y1="175" x2="865.0" y2="175" stroke="#21AB71" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.61s" fill="freeze"/>
+<circle cx="626.0" cy="190" r="2.6" fill="#21AB71"/>
+<text class="s" x="640.0" y="194" fill="#E1E1E1" font-size="12.5">Cross-platform apps</text></g><line x1="622.0" y1="205" x2="865.0" y2="205" stroke="#21AB71" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.66s" fill="freeze"/>
+<circle cx="626.0" cy="220" r="2.6" fill="#21AB71"/>
+<text class="s" x="640.0" y="224" fill="#E1E1E1" font-size="12.5">Mobile APIs</text></g><line x1="622.0" y1="235" x2="865.0" y2="235" stroke="#21AB71" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.70s" fill="freeze"/>
+<circle cx="626.0" cy="250" r="2.6" fill="#21AB71"/>
+<text class="s" x="640.0" y="254" fill="#E1E1E1" font-size="12.5">Push notifications</text></g><line x1="622.0" y1="265" x2="865.0" y2="265" stroke="#21AB71" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.74s" fill="freeze"/>
+<circle cx="626.0" cy="280" r="2.6" fill="#21AB71"/>
+<text class="s" x="640.0" y="284" fill="#E1E1E1" font-size="12.5">In-app subscriptions</text></g><line x1="622.0" y1="295" x2="865.0" y2="295" stroke="#21AB71" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.79s" fill="freeze"/>
+<circle cx="626.0" cy="310" r="2.6" fill="#21AB71"/>
+<text class="s" x="640.0" y="314" fill="#E1E1E1" font-size="12.5">Payment integrations</text></g><line x1="622.0" y1="325" x2="865.0" y2="325" stroke="#21AB71" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.83s" fill="freeze"/>
+<circle cx="626.0" cy="340" r="2.6" fill="#21AB71"/>
+<text class="s" x="640.0" y="344" fill="#E1E1E1" font-size="12.5">Real-time features</text></g><line x1="622.0" y1="355" x2="865.0" y2="355" stroke="#21AB71" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.88s" fill="freeze"/>
+<circle cx="626.0" cy="370" r="2.6" fill="#21AB71"/>
+<text class="s" x="640.0" y="374" fill="#E1E1E1" font-size="12.5">Offline-first sync</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="0.36s" fill="freeze"/>
+<rect x="895.0" y="76" width="271.0" height="322" rx="10" fill="#0E1A1D" stroke="#61CE70" stroke-width="1.1" opacity=".95"/>
+<rect x="895.0" y="76" width="271.0" height="3" rx="1.5" fill="#61CE70"/>
+<text class="h" x="1030.5" y="103" fill="#61CE70" font-size="11.5" letter-spacing="1.4" text-anchor="middle">WEB</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.64s" fill="freeze"/>
+<circle cx="913.0" cy="130" r="2.6" fill="#61CE70"/>
+<text class="s" x="927.0" y="134" fill="#E1E1E1" font-size="12.5">React &amp; Next.js</text></g><line x1="909.0" y1="145" x2="1152.0" y2="145" stroke="#61CE70" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.69s" fill="freeze"/>
+<circle cx="913.0" cy="160" r="2.6" fill="#61CE70"/>
+<text class="s" x="927.0" y="164" fill="#E1E1E1" font-size="12.5">Node.js APIs</text></g><line x1="909.0" y1="175" x2="1152.0" y2="175" stroke="#61CE70" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.73s" fill="freeze"/>
+<circle cx="913.0" cy="190" r="2.6" fill="#61CE70"/>
+<text class="s" x="927.0" y="194" fill="#E1E1E1" font-size="12.5">REST &amp; GraphQL</text></g><line x1="909.0" y1="205" x2="1152.0" y2="205" stroke="#61CE70" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.78s" fill="freeze"/>
+<circle cx="913.0" cy="220" r="2.6" fill="#61CE70"/>
+<text class="s" x="927.0" y="224" fill="#E1E1E1" font-size="12.5">PostgreSQL</text></g><line x1="909.0" y1="235" x2="1152.0" y2="235" stroke="#61CE70" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.82s" fill="freeze"/>
+<circle cx="913.0" cy="250" r="2.6" fill="#61CE70"/>
+<text class="s" x="927.0" y="254" fill="#E1E1E1" font-size="12.5">Admin dashboards</text></g><line x1="909.0" y1="265" x2="1152.0" y2="265" stroke="#61CE70" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.86s" fill="freeze"/>
+<circle cx="913.0" cy="280" r="2.6" fill="#61CE70"/>
+<text class="s" x="927.0" y="284" fill="#E1E1E1" font-size="12.5">Customer portals</text></g><line x1="909.0" y1="295" x2="1152.0" y2="295" stroke="#61CE70" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.91s" fill="freeze"/>
+<circle cx="913.0" cy="310" r="2.6" fill="#61CE70"/>
+<text class="s" x="927.0" y="314" fill="#E1E1E1" font-size="12.5">Cloud deployment</text></g><line x1="909.0" y1="325" x2="1152.0" y2="325" stroke="#61CE70" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="0.96s" fill="freeze"/>
+<circle cx="913.0" cy="340" r="2.6" fill="#61CE70"/>
+<text class="s" x="927.0" y="344" fill="#E1E1E1" font-size="12.5">CI/CD pipelines</text></g><line x1="909.0" y1="355" x2="1152.0" y2="355" stroke="#61CE70" stroke-width=".5" opacity=".14"/><g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="1.00s" fill="freeze"/>
+<circle cx="913.0" cy="370" r="2.6" fill="#61CE70"/>
+<text class="s" x="927.0" y="374" fill="#E1E1E1" font-size="12.5">Monitoring</text></g></svg>
