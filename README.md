@@ -270,8 +270,8 @@ I still sit close to the work: architecture, product direction, AI adoption and 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mzeeshansikander/mzeeshansikander/main/assets/snake-dark.svg?v=202611050008" />
-  <img width="100%" src="https://raw.githubusercontent.com/mzeeshansikander/mzeeshansikander/main/assets/snake.svg?v=202611050008" alt="Contribution grid snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mzeeshansikander/mzeeshansikander/main/assets/snake-dark.svg?v=202611051204" />
+  <img width="100%" src="https://raw.githubusercontent.com/mzeeshansikander/mzeeshansikander/main/assets/snake.svg?v=202611051204" alt="Contribution grid snake animation" />
 </picture>
 
 <br/>
